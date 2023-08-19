@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "backend of my portfolio ",
   "main": "index.js",
-  "scripts": {
-    "build": "netlify deploy --prod",
+  "scripts":{
+    "build": "npx grunt build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Montu kharb",
