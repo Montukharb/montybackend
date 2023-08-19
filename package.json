@@ -4,7 +4,7 @@
   "description": "backend of my portfolio ",
   "main": "index.js",
   "scripts": {
-    "build":"netlify deploy --prod",
+    "build": "netlify deploy --prod",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Montu kharb",
@@ -17,6 +17,7 @@
     "netlify-cli": "^15.8.0",
     "nodemailer": "^6.9.3",
     "nodemon": "^2.0.22",
+    "npm-git-install": "^0.3.0",
     "serverless-http": "^3.2.0",
     "validator": "^13.9.0",
     "validator.js": "^2.0.4"
