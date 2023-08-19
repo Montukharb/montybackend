@@ -1,0 +1,6 @@
+package-lock.json
+node_modules/*
+.idea/*
+netlify.toml
+images/*
+!images/.gitkeep
